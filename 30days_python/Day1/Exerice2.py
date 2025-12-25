@@ -1,0 +1,16 @@
+""" Write a code do the following operations. The operands are 3 and 4.
+addition(+)
+subtraction(-)
+multiplication(*)
+modulus(%)
+division(/)
+exponential(**)
+floor division operator(//)
+"""
+print("Add:", 3 + 4)
+print("Subtract:", 3 - 4)
+print("Multiply:", 3 * 4)   
+print("Modulus:", 3 % 4)
+print("Divide:", 3 / 4)
+print("Exponential:", 3 ** 4)
+print("Floor Division:", 3 // 4)
